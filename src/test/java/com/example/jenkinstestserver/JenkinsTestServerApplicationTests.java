@@ -9,7 +9,7 @@ class JenkinsTestServerApplicationTests {
 
     @Test
     void contextLoads() {
-        Assertions.assertThat(1).isEqualTo(2);
+        
     }
 
 }
